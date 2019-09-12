@@ -6,7 +6,7 @@ Parameters of LDA NN and GGA NN and code to use it.
 Requirements: tensorflow 1.12.0 and tflearn 0.3.2
 
 ## Reference
-Cite the following paper in any related works.
+Cite the following paper in related works.
 
 @ARTICLE{2019arXiv190903860R,
        author = {{Ryabov}, Alexander and {Zhilyaev}, Petr},
@@ -23,3 +23,5 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190903860R},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+Link to the article: https://arxiv.org/abs/1909.03860
